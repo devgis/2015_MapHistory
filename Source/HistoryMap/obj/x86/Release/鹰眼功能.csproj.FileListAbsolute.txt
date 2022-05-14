@@ -1,0 +1,9 @@
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\bin\Release\鹰眼功能.exe
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\bin\Release\鹰眼功能.pdb
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\ResolveAssemblyReference.cache
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\鹰眼功能.Form1.resources
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\鹰眼功能.Properties.Resources.resources
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\GenerateResource.read.1.tlog
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\GenerateResource.write.1.tlog
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\鹰眼功能.exe
+d:\我的文档\visual studio 2010\Projects\鹰眼功能\鹰眼功能\obj\x86\Release\鹰眼功能.pdb

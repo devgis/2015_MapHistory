@@ -1,0 +1,13 @@
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.Properties.Resources.resources
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\bin\Debug\HistoryMap.exe
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\bin\Debug\HistoryMap.pdb
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.exe
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.pdb
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.MainMap.resources
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.InfoWindow.resources
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\Interop.StdType.dll
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.csproj.ResolveComReference.cache
+E:\WORK\2015\MapHistory\HistoryMap\HistoryMap\obj\x86\Debug\HistoryMap.SelectDynasty.resources
